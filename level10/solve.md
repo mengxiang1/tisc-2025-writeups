@@ -1,4 +1,5 @@
 # Level 10: `countle-secured-storage`
+
 **Flag:** `TISC{1t_w45_7h3_f1r57_g00gl3_r35ul7_f0r_c55_54n171z3r}`
 
 ## TL;DR
